@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ImageUploader</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="hello_world">Hello world!</string>
+
+    <string-array name="citiesNames">
+        <item> tunis</item>
+        <item> sfax</item>
+        <item> london</item>
+        <item> new york</item>
+        <item> sab5et el sijoumi</item>
+    </string-array>
+</resources>
